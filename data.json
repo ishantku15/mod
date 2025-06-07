@@ -1,0 +1,182 @@
+{
+    "navigation": [
+        {
+            "name": "Home",
+            "url": "#home"
+        },
+        {
+            "name": "Categories",
+            "url": "#categories"
+        },
+        {
+            "name": "Apps",
+            "url": "#apps"
+        },
+        {
+            "name": "Request",
+            "url": "#request"
+        },
+        {
+            "name": "Blog",
+            "url": "https://blogs.ishant.shop"
+        }
+    ],
+    "categories": [
+        {
+            "id": "education",
+            "name": "Education",
+            "icon": "📚",
+            "description": "Learning apps and educational tools",
+            "count": 25
+        },
+        {
+            "id": "games",
+            "name": "Games",
+            "icon": "🎮",
+            "description": "Premium games and entertainment",
+            "count": 150
+        },
+        {
+            "id": "productivity",
+            "name": "Productivity",
+            "icon": "💼",
+            "description": "Office and productivity apps",
+            "count": 45
+        },
+        {
+            "id": "entertainment",
+            "name": "Entertainment",
+            "icon": "🎬",
+            "description": "Media and streaming apps",
+            "count": 80
+        },
+        {
+            "id": "tools",
+            "name": "Tools",
+            "icon": "🔧",
+            "description": "Utility and system tools",
+            "count": 60
+        },
+        {
+            "id": "photography",
+            "name": "Photography",
+            "icon": "📸",
+            "description": "Photo editing and camera apps",
+            "count": 35
+        }
+    ],
+    "apps": [
+        {
+            "id": 1,
+            "name": "Premium Education Pro",
+            "description": "Access thousands of courses and educational content with premium features unlocked. Learn programming, design, business, and more with interactive lessons.",
+            "category": "education",
+            "image": "https://images.pexels.com/photos/5427645/pexels-photo-5427645.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "downloadUrl": "https://drive.google.com/file/d/1example1/view?usp=sharing",
+            "version": "2.1.0",
+            "size": "45MB",
+            "rating": 4.8,
+            "downloads": "10K+",
+            "features": ["Offline Learning", "Premium Courses", "No Ads", "Unlimited Access"]
+        },
+        {
+            "id": 2,
+            "name": "Gaming Master Mod",
+            "description": "Ultimate gaming experience with unlimited resources and premium features. Unlock all levels, characters, and premium content for the best mobile gaming.",
+            "category": "games",
+            "image": "https://images.pexels.com/photos/442576/pexels-photo-442576.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "downloadUrl": "https://drive.google.com/file/d/1example2/view?usp=sharing",
+            "version": "3.2.1",
+            "size": "120MB",
+            "rating": 4.9,
+            "downloads": "50K+",
+            "features": ["Unlimited Coins", "All Characters Unlocked", "No Ads", "Premium Graphics"]
+        },
+        {
+            "id": 3,
+            "name": "Productivity Suite Plus",
+            "description": "Complete office suite with advanced features for professional work. Create, edit, and collaborate on documents, spreadsheets, and presentations.",
+            "category": "productivity",
+            "image": "https://images.pexels.com/photos/590016/pexels-photo-590016.jpg?auto=compress&cs=tinysrgb&w=400",
+            "downloadUrl": "https://drive.google.com/file/d/1example3/view?usp=sharing",
+            "version": "1.8.5",
+            "size": "75MB",
+            "rating": 4.7,
+            "downloads": "25K+",
+            "features": ["Advanced Editing", "Cloud Sync", "No Watermarks", "Premium Templates"]
+        },
+        {
+            "id": 4,
+            "name": "StreamFlix Premium",
+            "description": "Watch unlimited movies and TV shows with premium streaming quality. Access exclusive content and enjoy ad-free entertainment.",
+            "category": "entertainment",
+            "image": "https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "downloadUrl": "https://drive.google.com/file/d/1example4/view?usp=sharing",
+            "version": "4.5.2",
+            "size": "95MB",
+            "rating": 4.6,
+            "downloads": "75K+",
+            "features": ["4K Streaming", "Offline Downloads", "No Ads", "Premium Content"]
+        },
+        {
+            "id": 5,
+            "name": "Photo Editor Master",
+            "description": "Professional photo editing with advanced AI-powered tools. Create stunning images with premium filters, effects, and editing capabilities.",
+            "category": "photography",
+            "image": "https://images.pexels.com/photos/1119796/pexels-photo-1119796.jpg?auto=compress&cs=tinysrgb&w=400",
+            "downloadUrl": "https://drive.google.com/file/d/1example5/view?usp=sharing",
+            "version": "2.9.1",
+            "size": "85MB",
+            "rating": 4.8,
+            "downloads": "40K+",
+            "features": ["AI Enhancement", "Premium Filters", "RAW Support", "No Watermarks"]
+        },
+        {
+            "id": 6,
+            "name": "System Optimizer Pro",
+            "description": "Advanced system optimization and cleaning tools. Boost performance, clean junk files, and manage your device with professional-grade tools.",
+            "category": "tools",
+            "image": "https://images.pexels.com/photos/177598/pexels-photo-177598.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "downloadUrl": "https://drive.google.com/file/d/1example6/view?usp=sharing",
+            "version": "3.1.4",
+            "size": "35MB",
+            "rating": 4.5,
+            "downloads": "30K+",
+            "features": ["Deep Clean", "Performance Boost", "Battery Optimizer", "Privacy Protection"]
+        }
+    ],
+    "settings": {
+        "siteName": "MODMASTER",
+        "tagline": "Your Gateway to Premium Android Apps",
+        "metaDescription": "Download premium mod APKs for free. Get unlimited access to educational apps, games, productivity tools, and entertainment apps with MODMASTER - your trusted source for Android mods.",
+        "keywords": "mod apk, android mods, free apps, premium apps, educational apps, games, apk download, productivity apps",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "contactEmail": "ishant150407@gmail.com",
+        "officialWebsite": "https://ishant.shop",
+        "blogWebsite": "https://blogs.ishant.shop",
+        "socialMedia": {
+            "twitter": "https://twitter.com/ishantwebworks",
+            "instagram": "https://instagram.com/ishantwebworks",
+            "youtube": "https://youtube.com/@ishantwebworks"
+        },
+        "seoSettings": {
+            "enableSitemap": true,
+            "enableRobots": true,
+            "enableStructuredData": true,
+            "analyticsId": "GA_TRACKING_ID"
+        }
+    },
+    "featuredApps": [1, 2, 4],
+    "latestUpdates": [
+        {
+            "date": "2024-01-15",
+            "title": "New Education Apps Added",
+            "description": "Added 5 new premium education apps with unlimited access."
+        },
+        {
+            "date": "2024-01-10",
+            "title": "Gaming Section Updated",
+            "description": "Updated popular gaming apps with latest mod versions."
+        }
+    ]
+}
