@@ -27,7 +27,7 @@
       "name": "Education",
       "icon": "📚",
       "description": "Learning apps and educational tools",
-      "count": 1
+      "count": 2
     },
     {
       "id": "games",
@@ -66,6 +66,19 @@
         "Free batches"
       ],
       "id": 1749300073375
+    },
+    {
+      "name": "NextToppers Mod Apk ",
+      "category": "education",
+      "description": "Next Toppers, An ecosystem designed to connected you with India's most loved educators and mentors specialised in various subjects",
+      "image": "data:image/png;base64,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",
+      "downloadUrl": "https://lksfy.com/NEXTtopper",
+      "version": "12.21.6",
+      "size": "22 MB",
+      "rating": 5,
+      "downloads": "10",
+      "features": [],
+      "id": 1749302182486
     }
   ],
   "settings": {
@@ -78,7 +91,8 @@
     "blogWebsite": "https://blogs.ishant.shop"
   },
   "featuredApps": [
-    1749300073375
+    1749300073375,
+    1749302182486
   ],
   "latestUpdates": [
     {
